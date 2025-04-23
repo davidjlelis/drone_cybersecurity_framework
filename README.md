@@ -11,6 +11,6 @@ against three cybersecurity attacks:
   Sudden Network Disconnection      Failsafe Procedures
 
 ## Results
-Full paper of the study can be found: 
+Full paper of the study can be found: CIS6372_Information_Assurance_Cybersecurity_Framework_for_Automous_Drones.pdf
 
 Demonstration Video: https://www.youtube.com/watch?v=0JJQ03N_g8U
